@@ -1,3 +1,9 @@
+/* Copyright (c) 2022, Payton Lo
+All rights reserved.
+
+This source code is licensed under the MIT-style license found in the
+LICENSE file in the root directory of this source tree.*/
+  
 // The base of the app was built on a starter app from Flutter.
 // Flutter base app can be found at: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#5
 
