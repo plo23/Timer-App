@@ -1,3 +1,11 @@
+/* 
+Copyright (c) 2022, Payton Lo
+All rights reserved.
+
+This source code is licensed under the MIT-style license found in the
+LICENSE file in the root directory of this source tree.
+*/
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'timerscreen.dart';
