@@ -1,31 +1,18 @@
-# Flutter Exam 2 - Make a simple flutter app of your own design
+The base of the app was built on a starter app from Flutter.
+Flutter base app can be found at: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#5
 
-## Objectives
-* Demonstrate that you can create a flutter app.
-* Demonstrate that you can find and use flutter packages.
-* Demonstrate that you can make an app that uses good graphic design.
+The popups were inspired from a tutorial by Johannes Milke
+Source code for popups: https://github.com/JohannesMilke/dialog_with_textfield
+Tutorial: https://www.youtube.com/watch?v=D6icsXS8NeA
 
-## Requirements
-1. Make a simple app from, scratch of your own design. 
-2. The app must make use of one new flutter package that you have never used before.
-3. Use an online resource for good mobile design, for example you could use (Smashing Magazine Comprehensive Guide to App Design)[https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/]
-4. Demonstrate your app to the class on one of the following days: Friday April 24th or Friday May 1st, or Monday May 4th 
+Retrieving data from textfields & controller: https://docs.flutter.dev/cookbook/forms/retrieve-input
 
-## Ideas
-* Continue the adventure... Move the adventure game to an app format.
-* Some other very simple game.
-* A tic-tac-toe game.
-* A connect 4 game.
-* A useful app that scrapes weather or other information from a reliable online website.
-* Any other idea as long as it's not just code copied from the web or code that you used for a different project. This needs to be (mostly) your creation from start to finish. Be sure and clearly document /  credit what code you do re-use or copy! You need to apply this code in a new way. 
+Design of timer screen was from doctor code: https://www.youtube.com/watch?v=4Zbf-PS9Q84
 
-## What to submit
-* Submit the code you wrote for the app here. 
-* Make sure to use a proper .gitignore so you don't submit all the stuff that Flutter makes for Android or Mac!
+Timer plugin: https://pub.dev/packages/circular_countdown_timer
 
-## Grading
-* 50 % - The App works 
-* 30 % - You used a new flutter package never used before
-* 10 % - Online Presentation
-*  5 % - All online reources used in app development cited in the Readme.md file for the app
-*  5 % - Apealing, creative layout, design and fonts all work together for good design. 
+Restricting input to numbers: https://stackoverflow.com/questions/49577781/how-to-create-number-input-field-in-flutter
+
+Help with dynamically adding to lists: https://googleflutter.com/flutter-add-item-to-listview-dynamically/
+
+This app was created as an exercise in practicing using packages and creating flutter apps.
